@@ -1,3 +1,5 @@
+export type Category = typeof CATEGORIES[number];
+
 export const CATEGORIES = [
   "שתייה",
   "חטיפים",
